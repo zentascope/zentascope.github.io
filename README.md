@@ -1,12 +1,4 @@
-# Real-Time Phoenix Build Highly Scalable Systems with Channels
-
-Good, I have a clear picture of the structure. Let me generate **Part 1** now — the front matter and Chapter 1.Now I have enough to generate the first part cleanly. Here it is:
-
----
-
-# Real-Time Phoenix
-
-## Build Highly Scalable Systems with Channels
+# Real-Time Phoenix Build Highly Scalable Systems with Channels - Build Highly Scalable Systems with Channels
 
 **Stephen Bussey** | The Pragmatic Bookshelf
 
